@@ -1,1 +1,0 @@
-FROM yunabe/tslab:20200627
