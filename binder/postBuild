@@ -1,0 +1,5 @@
+#!/bin/bash
+
+npm config set prefix $HOME
+npm install -g ijavascript
+ijsinstall
