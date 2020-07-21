@@ -1,5 +1,3 @@
-var { show } = require('../../index')
-
 function prototypeExtend() {
   var F = function() {},
     i = 0,
@@ -28,5 +26,5 @@ var o = prototypeExtend({
   }
 })
 
-show(o.a, o.b, o.c)
-show(o.func1(), o.func2())
+console.log(o.a, o.b, o.c)
+console.log(o.func1(), o.func2())

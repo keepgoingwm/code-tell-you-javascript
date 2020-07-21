@@ -1,0 +1,25 @@
+{
+  "name": "code-tell-you-javascript",
+  "version": "0.0.1",
+  "description": "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "jupyter lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keepgoingwm/code-tell-you-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "code",
+    "snippet"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keepgoingwm/code-tell-you-javascript/issues"
+  },
+  "homepage": "https://github.com/keepgoingwm/code-tell-you-javascript#readme"
+}
