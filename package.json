@@ -4,6 +4,7 @@
   "description": "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)",
   "main": "index.js",
   "scripts": {
+    "commit": "git cz",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "jupyter lab"
   },
@@ -21,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/keepgoingwm/code-tell-you-javascript/issues"
   },
-  "homepage": "https://github.com/keepgoingwm/code-tell-you-javascript#readme"
+  "homepage": "https://github.com/keepgoingwm/code-tell-you-javascript#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "devDependencies": {
+    "commitizen": "^4.1.2",
+    "cz-conventional-changelog": "^3.2.0",
+    "git-cz": "^4.7.0"
+  }
 }
