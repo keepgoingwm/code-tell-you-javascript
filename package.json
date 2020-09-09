@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
-    "readme": "node build/readme/readme.js src && git add . && git commit -m 'build readme'",
+    "readme": "node build/readme/readme.js src && git add . && git commit -m 'doc: build readme'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "jupyter lab"
   },
