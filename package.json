@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
+    "readme": "node build/readme/readme.js src && git commit -am 'build readme'",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "jupyter lab"
   },
@@ -31,9 +32,15 @@
   "devDependencies": {
     "commitizen": "^4.1.2",
     "cz-conventional-changelog": "^3.2.0",
-    "git-cz": "^4.7.0"
+    "git-cz": "^4.7.0",
+    "recursive-readdir-async": "^1.1.8"
   },
   "dependencies": {
     "utils": "file:lib/utils"
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm run readme"
+    }
   }
 }
