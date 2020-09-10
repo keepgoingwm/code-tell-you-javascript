@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/keepgoingwm/code-tell-you-javascript.svg?branch=master)](https://travis-ci.org/keepgoingwm/code-tell-you-javascript)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)
 
 # code-tell-you-javascript

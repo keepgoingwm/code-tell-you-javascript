@@ -12,16 +12,19 @@ only:
 before_install:
 
 install:
+  - npm i
 
 before_script:
 
 script:
-  - npm i
   - npm run readme
+
 after_success:
   - chmod +x .travis/push.sh
   - .travis/push.sh
+
 after_failure:
   - ls -a
+  
 env:
   global:

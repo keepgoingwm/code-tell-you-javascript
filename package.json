@@ -6,8 +6,9 @@
   "scripts": {
     "commit": "git-cz",
     "readme": "node build/readme/readme.js src",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "jupyter lab"
+    "dev": "jupyter lab",
+    "push:force": "cross-env HUSKY_SKIP_HOOKS=1 git push",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -30,9 +31,7 @@
     }
   },
   "devDependencies": {
-    "commitizen": "^4.1.2",
-    "cz-conventional-changelog": "^3.2.0",
-    "git-cz": "^4.7.0",
+    "commitizen": "^4.2.1",
     "recursive-readdir-async": "^1.1.8"
   },
   "dependencies": {
