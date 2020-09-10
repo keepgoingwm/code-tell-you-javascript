@@ -72,9 +72,9 @@ git clone https://github.com/keepgoingwm/code-tell-you-javascript.git
 ### 03OOP
 
 + [01 基础知识-basic](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic)
+  + [[[Prototype]] and prototype.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/[[Prototype]]%20and%20prototype.ipynb)
   + [constructor属性.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/constructor属性.ipynb)
   + [instanceof操作符.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/instanceof操作符.ipynb)
-  + [[[Prototype]] and prototype.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/[[Prototype]]%20and%20prototype.ipynb)
   + [实现私有属性-private props.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/实现私有属性-private%20props.ipynb)
   + [静态属性-static props.ipynb](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/01%20基础知识-basic/静态属性-static%20props.ipynb)
 + [02 继承的实现方式](https://github.com/keepgoingwm/code-tell-you-javascript/tree/master/src/03OOP/02%20继承的实现方式)
