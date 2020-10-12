@@ -1,7 +1,7 @@
 {
   "name": "code-tell-you-javascript",
   "version": "0.0.1",
-  "description": "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)",
+  "description": "[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master)",
   "main": "index.js",
   "scripts": {
     "commit": "git-cz",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/keepgoingwm/code-tell-you-javascript.git"
+    "url": "git+https://github.com/awamwang/code-tell-you-javascript.git"
   },
   "keywords": [
     "javascript",
@@ -22,9 +22,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/keepgoingwm/code-tell-you-javascript/issues"
+    "url": "https://github.com/awamwang/code-tell-you-javascript/issues"
   },
-  "homepage": "https://github.com/keepgoingwm/code-tell-you-javascript#readme",
+  "homepage": "https://github.com/awamwang/code-tell-you-javascript#readme",
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"

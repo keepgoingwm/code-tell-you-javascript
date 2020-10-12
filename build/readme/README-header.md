@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/keepgoingwm/code-tell-you-javascript.svg?branch=master)](https://travis-ci.org/keepgoingwm/code-tell-you-javascript)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)
+[![Build Status](https://travis-ci.com/awamwang/code-tell-you-javascript.svg?branch=master)](https://travis-ci.com/awamwang/code-tell-you-javascript)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master)
 
 # code-tell-you-javascript
 
@@ -16,7 +16,7 @@
 克隆项目代码
 
 ```cmd
-git clone https://github.com/keepgoingwm/code-tell-you-javascript.git
+git clone https://github.com/awamwang/code-tell-you-javascript.git
 ```
 
 通过自己的 jubyter notebook 或 jupyterlab 等工具查看项目
@@ -25,15 +25,15 @@ git clone https://github.com/keepgoingwm/code-tell-you-javascript.git
 
 #### 直接运行
 
-[jupyter lab 模式(推荐)](https://hub-binder.mybinder.ovh/user/keepgoingwm-cod--you-javascript-oc7zsevw/lab)
+[jupyter lab 模式(推荐)](https://hub-binder.mybinder.ovh/user/awamwang-cod--you-javascript-oc7zsevw/lab)
 
-[jupyter notebook 模式](https://hub-binder.mybinder.ovh/user/keepgoingwm-cod--you-javascript-oc7zsevw/tree)
+[jupyter notebook 模式](https://hub-binder.mybinder.ovh/user/awamwang-cod--you-javascript-oc7zsevw/tree)
 
 > 当无法访问时，则需要[构建最新代码](#构建最新代码)的方式
 
 #### 构建最新代码
 
-点击文档顶部的[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keepgoingwm/code-tell-you-javascript.git/master)图标，在线执行代码
+点击文档顶部的[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master)图标，在线执行代码
 
 > binder 修改代码不会保存到 git 仓库
 >

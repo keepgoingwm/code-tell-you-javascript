@@ -2,8 +2,8 @@
 version_pattern='^\d+\.\d+\.\d+$'
 
 setup_git() {
-  git config --global user.email "keepgoingwm@gmail.com"
-  git config --global user.name "keepgoingwm"
+  git config --global user.email "awamwang@gmail.com"
+  git config --global user.name "awamwang"
 }
 
 commit_website_files() {
@@ -28,7 +28,7 @@ git_push() {
   if [ $TRAVIS_EVENT_TYPE != "pull_request" ]; then
     if [ $TRAVIS_BRANCH == "master" ]; then
       echo "Pushing to master branch..."
-      git push --force --quiet "https://${GH_TOKEN}@github.com/keepgoingwm/code-tell-you-javascript.git" master > /dev/null 2>&1
+      git push --force --quiet "https://${GH_TOKEN}@github.com/awamwang/code-tell-you-javascript.git" master > /dev/null 2>&1
     fi
   fi
 }
