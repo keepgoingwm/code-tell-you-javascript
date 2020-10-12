@@ -49,6 +49,7 @@ git clone https://github.com/awamwang/code-tell-you-javascript.git
 + [04DesignPattern](#04DesignPattern)
 + [05Code Skill](#05Code%20Skill)
 + [06Snippets](#06Snippets)
++ [Other](#Other)
 
 ## Details
 
@@ -116,4 +117,13 @@ git clone https://github.com/awamwang/code-tell-you-javascript.git
 + [字符串处理.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/字符串处理.ipynb)
 + [对象处理.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/对象处理.ipynb)
 + [集合处理-Array.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/集合处理-Array.ipynb)
+
+### Other
+
++ [Module](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module)
+  + [CommonJS 和 ES Module 区别](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module/CommonJS%20和%20ES%20Module%20区别)
+    + [CommonJS.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module/CommonJS%20和%20ES%20Module%20区别/CommonJS.ipynb)
+    + [ESModule.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module/CommonJS%20和%20ES%20Module%20区别/ESModule.ipynb)
+    + [es循环依赖](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module/CommonJS%20和%20ES%20Module%20区别/es循环依赖)
+    + [es循环依赖2](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/Other/Module/CommonJS%20和%20ES%20Module%20区别/es循环依赖2)
 
