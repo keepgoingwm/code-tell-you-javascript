@@ -3,3 +3,5 @@
 npm config set prefix $HOME
 npm install -g ijavascript
 ~/bin/ijsinstall
+npm install -g itypescript
+its --install=global
