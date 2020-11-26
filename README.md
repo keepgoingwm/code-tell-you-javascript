@@ -71,7 +71,10 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 ### 02API
 
 + [Native Object](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object)
-  + [Proxy.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Proxy.ipynb)
+  + [Promise](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise)
+    + [PROMISE 你可能真的还没用明白（续集进阶版）.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise/PROMISE%20你可能真的还没用明白（续集进阶版）.ipynb)
+  + [Proxy](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Proxy)
+    + [Proxy基础.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Proxy/Proxy基础.ipynb)
 
 ### 03OOP
 
