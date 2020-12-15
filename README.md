@@ -59,6 +59,7 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 
 + [01 基础语法](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法)
   + [01数据类型](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/01数据类型)
+    + [字符串基础.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/01数据类型/字符串基础.ipynb)
     + [布尔类型-boolean.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/01数据类型/布尔类型-boolean.ipynb)
     + [类型检测.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/01数据类型/类型检测.ipynb)
     + [类型转换](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/01数据类型/类型转换)
@@ -70,10 +71,11 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
     + [var声明变量的作用域.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/作用域/var声明变量的作用域.ipynb)
   + [异常处理](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/异常处理)
     + [try catch.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/异常处理/try%20catch.ipynb)
-+ [02 中级知识](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级知识)
-  + [异步编程](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级知识/异步编程)
-    + [任务机制.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级知识/异步编程/任务机制.ipynb)
-  + [闭包.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级知识/闭包.ipynb)
+  + [箭头函数.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/01%20基础语法/箭头函数.ipynb)
++ [02 中级语法](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法)
+  + [异步编程](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/异步编程)
+    + [任务机制.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/异步编程/任务机制.ipynb)
+  + [闭包.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/闭包.ipynb)
 + [Decorator-es7.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/Decorator-es7.ipynb)
 + [冷门知识](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/冷门知识)
   + [循环变量的类型.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/冷门知识/循环变量的类型.ipynb)
@@ -83,10 +85,12 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 + [Native Object](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object)
   + [Promise](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise)
     + [PROMISE 你可能真的还没用明白（续集进阶版）.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise/PROMISE%20你可能真的还没用明白（续集进阶版）.ipynb)
+    + [Promise Loop.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise/Promise%20Loop.ipynb)
     + [Promise基础.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise/Promise基础.ipynb)
     + [自己实现Promise #H.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Promise/自己实现Promise%20#H.ipynb)
   + [Proxy](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Proxy)
     + [Proxy基础.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Proxy/Proxy基础.ipynb)
+  + [Set.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/02API/Native%20Object/Set.ipynb)
 
 ### 03OOP
 
