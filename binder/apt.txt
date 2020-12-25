@@ -1,3 +1,4 @@
 nodejs
+node-gyp
 build-essential
 checkinstall
