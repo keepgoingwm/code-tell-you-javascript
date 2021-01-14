@@ -51,6 +51,7 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 + [04DesignPattern](#04DesignPattern)
 + [05Code Skill](#05Code%20Skill)
 + [06Snippets](#06Snippets)
++ [07原理](#07原理)
 + [Other](#Other)
 
 ## Details
@@ -78,6 +79,8 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
   + [异步编程](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/异步编程)
     + [任务机制.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/异步编程/任务机制.ipynb)
   + [闭包.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/02%20中级语法/闭包.ipynb)
++ [03 高级语法](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/03%20高级语法)
+  + [this变量.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/03%20高级语法/this变量.ipynb)
 + [Decorator-es7.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/Decorator-es7.ipynb)
 + [冷门知识](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/冷门知识)
   + [循环变量的类型.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/01Syntax/冷门知识/循环变量的类型.ipynb)
@@ -146,6 +149,11 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 + [字符串处理.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/字符串处理.ipynb)
 + [对象处理.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/对象处理.ipynb)
 + [集合处理-Array.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/06Snippets/集合处理-Array.ipynb)
+
+### 07原理
+
++ [执行上下文.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/07原理/执行上下文.ipynb)
++ [词法分析.ipynb](https://github.com/awamwang/code-tell-you-javascript/tree/master/src/07原理/词法分析.ipynb)
 
 ### Other
 
