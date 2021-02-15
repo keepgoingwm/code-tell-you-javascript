@@ -6,6 +6,6 @@ uname -a
 # apt-get install -y nodejs npm
 # 
 npm config set prefix $HOME
-npm install -g --unsafe-perm node-gyp ijavascript itypescript
-~/bin/ijsinstall --install=global
-~/bin/its --install=global
+npm install -g node-gyp ijavascript itypescript
+sudo ~/bin/ijsinstall --install=global
+sudo ~/bin/its --install=global
