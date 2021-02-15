@@ -1,10 +1,10 @@
 #!/bin/bash
 
 uname -a
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash  - 
-sudo apt-get install -y nodejs npm
+curl -sL https://deb.nodesource.com/setup_12.x | -E bash  - 
+apt-get install -y nodejs npm
 # 
 npm config set prefix $HOME
-sudo npm install -g --unsafe-perm node-gyp ijavascript itypescript
-sudo ijsinstall --install=global
-sudo its --install=global
+npm install -g --unsafe-perm node-gyp ijavascript itypescript
+ijsinstall --install=global
+its --install=global
