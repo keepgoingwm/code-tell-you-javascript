@@ -7,5 +7,5 @@ uname -a
 # 
 npm config set prefix $HOME
 npm install -g --unsafe-perm node-gyp ijavascript itypescript
-ijsinstall --install=global
-its --install=global
+~/bin/ijsinstall --install=global
+~/bin/its --install=global
