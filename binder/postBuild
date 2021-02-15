@@ -1,8 +1,9 @@
 #!/bin/bash
 
+set -ex
 uname -a
-curl -sL https://deb.nodesource.com/setup_12.x | -E bash  - 
-apt-get install -y nodejs npm
+# curl -sL https://deb.nodesource.com/setup_12.x | -E bash  - 
+# apt-get install -y nodejs npm
 # 
 npm config set prefix $HOME
 npm install -g --unsafe-perm node-gyp ijavascript itypescript

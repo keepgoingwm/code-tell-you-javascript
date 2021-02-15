@@ -1,0 +1,6 @@
+channels:
+- conda-forge
+dependencies:
+# Jupyter
+- jupyterlab=2
+- nodejs=11
