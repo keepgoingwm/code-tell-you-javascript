@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/awamwang/code-tell-you-javascript.svg?branch=master)](https://travis-ci.com/awamwang/code-tell-you-javascript)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master)
 
 # code-tell-you-javascript
 
@@ -35,7 +35,7 @@ https://hub.gke2.mybinder.org/user/awamwang-code-t--you-javascript-29dlxnhf/tree
 
 #### 构建最新代码
 
-点击文档顶部的[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master?urlpath=lab)图标，在线执行代码
+点击文档顶部的[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript.git/master)图标，在线执行代码
 
 > binder 修改代码不会保存到 git 仓库
 >
