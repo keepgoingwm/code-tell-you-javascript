@@ -25,7 +25,7 @@ git clone https://github.com/awamwang/code-tell-you-javascript.git
 
 #### 直接运行
 
-[jupyter notebook 模式](https://mybinder.org/v2/gh/awamwang/code-tell-you-javascript/7715ad58a0ec68df95d33377aa76f618f046cd7f)
+[jupyter notebook 模式](https://hub-binder.mybinder.ovh/user/awamwang-code-t--you-javascript-eizn1h9t/tree)
 
 jupyter lab 模式(推荐)，进入到notebook界面后，将路径最后的`tree`改为`lab`
 
